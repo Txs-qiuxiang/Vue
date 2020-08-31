@@ -13,7 +13,7 @@
     <message ref="msgWarning" class="warning">
       <!-- 命名为title插槽内容 -->
       <template v-slot:title>
-        <strong>警告</strong>
+        <strong>警告11</strong>
       </template>
       <!-- 默认插槽内容 -->
       <template v-slot：default>请输入课程名称！</template>
