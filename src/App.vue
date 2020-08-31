@@ -7,13 +7,21 @@
         <strong>{{slotProps.title}}</strong>
       </template>
       <!-- 默认插槽内容 -->
+<<<<<<< HEAD
       <template v-slot:default>新增课程成功1！</template>
+=======
+      <template v-slot:default>新增课程成功！</template>
+>>>>>>> 4f40597706572bc08e3f41722b3b9cb80ccf16c0
     </message>
 
     <message ref="msgWarning" class="warning">
       <!-- 命名为title插槽内容 -->
       <template v-slot:title>
+<<<<<<< HEAD
         <strong>警告11</strong>
+=======
+        <strong>警告</strong>
+>>>>>>> 4f40597706572bc08e3f41722b3b9cb80ccf16c0
       </template>
       <!-- 默认插槽内容 -->
       <template v-slot：default>请输入课程名称！</template>
